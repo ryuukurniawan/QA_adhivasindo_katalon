@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input data undangan pengantin (positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d384e5c-34b5-49fb-94ca-8b0cf482f1a6</testCaseGuid>
+</TestCaseEntity>
