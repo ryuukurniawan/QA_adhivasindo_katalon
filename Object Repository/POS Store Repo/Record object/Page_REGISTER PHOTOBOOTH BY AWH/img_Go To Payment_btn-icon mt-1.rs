@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Go To Payment_btn-icon mt-1</name>
+   <tag></tag>
+   <elementGuidId>cdee5062-dfa2-4fe0-8086-bc0334c21a7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#photobooth > img.btn-icon.mt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='photobooth']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7c0e0c4e-c106-49ca-b469-a953353adf66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://pos.awh.co.id/assets/icons/add-to-cart.png</value>
+      <webElementGuid>f4a08ea4-d0ab-462e-b606-d54930985293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-icon mt-1</value>
+      <webElementGuid>580d523a-b0d6-4b04-a6c8-02b7ea7489c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;photobooth&quot;)/img[@class=&quot;btn-icon mt-1&quot;]</value>
+      <webElementGuid>01addddc-2e53-4d25-9c6f-4e046ccf647a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='photobooth']/img</value>
+      <webElementGuid>a21e4efc-e89a-4536-9d98-a28a59053564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://pos.awh.co.id/assets/icons/add-to-cart.png')]</value>
+      <webElementGuid>f37e406b-8ab6-43b9-a6f1-8356fb740f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>a1f36599-52f7-4a51-872c-294864aa33a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://pos.awh.co.id/assets/icons/add-to-cart.png']</value>
+      <webElementGuid>1351d09b-d5cb-40a9-bb73-cc7eab9f2114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

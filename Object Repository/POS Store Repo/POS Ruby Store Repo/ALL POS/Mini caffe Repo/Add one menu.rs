@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add one menu</name>
+   <tag></tag>
+   <elementGuidId>e4787f18-52f0-46bb-a3a0-17af09d081c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick=&quot;incrementQuantity('50')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.squire.plus.addtocart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1e9474b-cd66-4aff-bd72-a10a75277f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>squire plus addtocart</value>
+      <webElementGuid>75eadecd-baaa-47ae-b95b-4c98cbb4d168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>incrementQuantity('50')</value>
+      <webElementGuid>9f9fd31f-9b55-4dd8-aa03-27776423ecf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+
+                                            </value>
+      <webElementGuid>c343b3a6-96c7-4a65-a94a-0004810fc379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuItems&quot;)/div[@class=&quot;col-md-3 col-6 menu-item&quot;]/div[@class=&quot;card mb-3 shadow-sm&quot;]/div[@class=&quot;image-container&quot;]/div[@class=&quot;quantity-buttons&quot;]/div[@class=&quot;squire plus addtocart&quot;]</value>
+      <webElementGuid>0d2422a2-acdb-42a7-bc2f-d3d548736617</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick=&quot;incrementQuantity('50')&quot;]</value>
+      <webElementGuid>562bce9e-47c1-471a-8dc3-0dba2fd916a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuItems']/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>ab69b699-5c40-4fe2-a63a-224aad72be60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::div[1]</value>
+      <webElementGuid>66800c80-196f-440d-95ae-1d8b9b4f4d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::div[6]</value>
+      <webElementGuid>7de926e3-289f-43fb-aeaa-29821863bd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AWH HyppenLatte / Gula Aren'])[2]/preceding::div[1]</value>
+      <webElementGuid>99ccaa29-32f9-44f5-86d1-1a11afe07dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>b5262022-a0f4-4822-948e-644a998f3772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+
+                                            ' or . = '+
+                                            ')]</value>
+      <webElementGuid>66495e62-bc1a-419b-a032-5c69ed008eaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

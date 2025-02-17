@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check manual dalam menampilkan template undangan menggunakan variasi search engine</description>
+   <name>Template undangan all device</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e6280e1-fcb1-4dd8-9485-a3e3a03f72b6</testCaseGuid>
+</TestCaseEntity>

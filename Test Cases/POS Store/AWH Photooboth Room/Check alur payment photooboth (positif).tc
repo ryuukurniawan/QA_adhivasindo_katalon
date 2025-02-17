@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing untuk memastikan alur pendaftaran photobooth berjalan lancar</description>
+   <name>Check alur payment photooboth (positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>487608f8-1fb6-479e-9ec1-a0fb1fe0c932</testCaseGuid>
+</TestCaseEntity>

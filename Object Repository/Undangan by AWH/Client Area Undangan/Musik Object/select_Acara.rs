@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Acara</name>
+   <tag></tag>
+   <elementGuidId>5112a591-4eaf-44e9-81cc-881a4744f730</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;service_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#service_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eb8a0dac-2782-48d2-bcc9-c28392efbd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>5da13562-f33b-419f-8bd3-61057b447763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>service_id</value>
+      <webElementGuid>878d458e-8eb7-4010-9ee0-9a541539e15e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>service_id</value>
+      <webElementGuid>d06cf0c4-3c17-4401-8bb4-cc27b1642a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+                                        Acara
+                                        Pernikahan
+                                        Kartu Ucapan
+                                    </value>
+      <webElementGuid>08de0a63-ddb8-4344-b407-c4c869e6b57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;service_id&quot;)</value>
+      <webElementGuid>995ace32-6c35-4210-b440-b5175b7940c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='service_id']</value>
+      <webElementGuid>e6f16df5-70c5-4bc6-98ee-a8302b2f6019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='bannerForm']/div/div/div/div/select</value>
+      <webElementGuid>546ac073-a3b8-480c-9909-d8aa96901a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[1]</value>
+      <webElementGuid>7d662a49-1ac0-48c6-bfdb-6a3214da3a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Themes Musik Map'])[1]/following::select[1]</value>
+      <webElementGuid>a0478a33-8c35-426d-9b1a-157f2b55fed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Themes_id'])[1]/preceding::select[1]</value>
+      <webElementGuid>b997d131-d3e6-4cfc-af4a-0b2a17c4b6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[2]</value>
+      <webElementGuid>a39d8f0d-c1fb-44c4-9ed9-dfd9810d2950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ba09dd36-9535-4ce8-a8ed-44e4d1c9aa48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'service_id' and @name = 'service_id' and (text() = '
+
+                                        Acara
+                                        Pernikahan
+                                        Kartu Ucapan
+                                    ' or . = '
+
+                                        Acara
+                                        Pernikahan
+                                        Kartu Ucapan
+                                    ')]</value>
+      <webElementGuid>529f165b-74e8-42f0-af0e-d0375872ed7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

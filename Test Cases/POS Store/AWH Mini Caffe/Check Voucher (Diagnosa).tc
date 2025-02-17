@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automation untuk mendiagnosa voucher mana yang mengalami berbedaan data</description>
+   <name>Check Voucher (Diagnosa)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dd0f4f4-34ca-41f9-ad2c-ad2cfc16f2c2</testCaseGuid>
+</TestCaseEntity>

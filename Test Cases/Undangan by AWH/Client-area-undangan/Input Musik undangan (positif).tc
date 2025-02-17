@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkin untuk melihat proses input musik pada setiap undangan sekalian membantu proses input musik yang repetitif.</description>
+   <name>Input Musik undangan (positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>002b84a4-4d16-4884-bfd4-6ac6cf7a2c66</testCaseGuid>
+</TestCaseEntity>

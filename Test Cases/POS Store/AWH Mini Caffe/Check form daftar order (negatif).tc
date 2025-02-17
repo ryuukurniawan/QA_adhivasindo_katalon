@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melakukan cek pada form daftar order yang berisikan nama dan no telpn</description>
+   <name>Check form daftar order (negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80cb9ab9-fd05-4ddc-93a5-89e2715999dc</testCaseGuid>
+</TestCaseEntity>

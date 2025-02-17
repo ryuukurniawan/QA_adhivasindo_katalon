@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing untuk voucher yanng sudah expired untuk memastikan voucher tidak dapat digunakan lagi.&#xd;
+</description>
+   <name>Check voucher expired (negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89410c30-8ff3-477b-8fd8-3de5da8d6ab9</testCaseGuid>
+</TestCaseEntity>

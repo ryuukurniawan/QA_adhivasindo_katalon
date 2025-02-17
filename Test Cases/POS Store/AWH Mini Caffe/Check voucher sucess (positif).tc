@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing untuk melihat apakah voucher dapat di gunakan dengan baik dan mendapat potongan produk yang sesuai</description>
+   <name>Check voucher sucess (positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9287e5ca-9d25-42b0-899c-5f05162e0870</testCaseGuid>
+</TestCaseEntity>

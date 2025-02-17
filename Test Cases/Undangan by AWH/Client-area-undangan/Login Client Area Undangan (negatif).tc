@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing pada bagian login klien area undangan pada dev mau prod</description>
+   <name>Login Client Area Undangan (negatif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b11d6d83-aadf-40d2-8a87-270ceaea00f9</testCaseGuid>
+</TestCaseEntity>

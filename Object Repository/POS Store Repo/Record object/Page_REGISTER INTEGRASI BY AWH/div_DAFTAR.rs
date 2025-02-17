@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DAFTAR</name>
+   <tag></tag>
+   <elementGuidId>6f61197c-6cd5-44c3-84c2-f78d7a455a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#splide01-slide03 > a > div.card.mb-3.mx-2 > div.d-flex.justify-content-center > div.btn.btn-primary.button-daftar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='splide01-slide03']/a/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84a90655-a2e6-4896-a238-901807dd2a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary button-daftar</value>
+      <webElementGuid>33fd57a7-1096-4d18-872b-858a929658e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAFTAR</value>
+      <webElementGuid>9b94a466-0362-496e-a157-4f77a925c942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide01-slide03&quot;)/a[1]/div[@class=&quot;card mb-3 mx-2&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/div[@class=&quot;btn btn-primary button-daftar&quot;]</value>
+      <webElementGuid>7c2854a2-3630-4102-8222-363763e68da2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='splide01-slide03']/a/div/div[2]/div</value>
+      <webElementGuid>819d770d-bd06-456e-bd97-ad58ad9b07a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORDER'])[1]/following::div[5]</value>
+      <webElementGuid>42a3a067-f574-412b-8a3f-4a8611a1ded2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT PHOTO'])[1]/following::div[10]</value>
+      <webElementGuid>1778ae5d-278b-4d1d-bc79-45f590639d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[2]/preceding::div[2]</value>
+      <webElementGuid>bc06fa79-3f14-41be-aca3-f143a29e5226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DAFTAR']/parent::*</value>
+      <webElementGuid>dbd1ce81-1a76-4313-a831-03decb98448e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div[2]/div</value>
+      <webElementGuid>d7499d10-84ab-4ae8-9e50-19b9332e973d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DAFTAR' or . = 'DAFTAR')]</value>
+      <webElementGuid>8f5f57ee-38ab-4a83-ab1b-12e8413b8da0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

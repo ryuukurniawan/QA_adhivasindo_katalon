@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Batalkan Order</name>
+   <tag></tag>
+   <elementGuidId>9798a1fe-8481-4fe9-a50c-29e9841f3502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='BatalkanOrder()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-danger.w-100.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c023f4e-e55f-49ef-95a3-a282e4f67967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger w-100 mr-1</value>
+      <webElementGuid>50e2b246-7aaf-4247-b5f7-3e8614b1e648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>BatalkanOrder()</value>
+      <webElementGuid>47147ea8-29a4-4fb2-b999-c2b5a31efd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batalkan Order</value>
+      <webElementGuid>2eca6504-bb93-49ba-b81f-542bc75a2518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-image p-4&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-lg-10 col-md-10 col-10 center-block&quot;]/div[@class=&quot;row scroll2&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-12 mt-2&quot;]/div[@class=&quot;d-flex justify-content-between mt-2&quot;]/div[@class=&quot;btn btn-danger w-100 mr-1&quot;]</value>
+      <webElementGuid>530e0874-66e2-480a-98a1-cfb69f1ca7ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='BatalkanOrder()']</value>
+      <webElementGuid>73491cce-16f6-489c-a268-0bab4470e46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar Sekarang'])[1]/following::div[2]</value>
+      <webElementGuid>d951cf4e-3b18-4169-98b4-d06d34bdc586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Pembayaran'])[1]/following::div[7]</value>
+      <webElementGuid>f2288ba6-bbdc-4074-b8d4-7074b8399c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Pesanan'])[1]/preceding::div[1]</value>
+      <webElementGuid>af046ea9-6cb2-4981-8294-5f298d4a58bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batalkan Order']/parent::*</value>
+      <webElementGuid>bc8701a7-50ba-4d87-834a-e92c1444b4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>2c23c81e-ddf7-4838-afe7-54f7ffc1c4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Batalkan Order' or . = 'Batalkan Order')]</value>
+      <webElementGuid>9476e1b2-d7f9-4686-a9ab-f3ce935fb7c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
