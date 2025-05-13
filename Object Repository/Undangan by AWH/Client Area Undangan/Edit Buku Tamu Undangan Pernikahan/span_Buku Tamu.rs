@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buku Tamu</name>
+   <tag></tag>
+   <elementGuidId>d59f2bb0-7f40-481d-870a-abefbdae095c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div/div/div/div[2]/div[3]/div[2]/div/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa4731e6-58d6-47c1-8fe9-44bea709ab82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buku Tamu</value>
+      <webElementGuid>e3b0975c-94fb-4b34-94bc-f976694648b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;wrapperCard row g-0&quot;]/div[@class=&quot;col-sm-6 col-md-6 col-xl-4 stretch-card grid-margin&quot;]/div[@class=&quot;card bg-gradient-success card-img-holder text-white&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-12 col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-7 col-md-7 pl-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 px-1 mb-2&quot;]/a[@class=&quot;py-1 btn btn-gradient-light&quot;]/span[1]</value>
+      <webElementGuid>95eba07a-843b-4a25-9f31-ca010e072ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div/div[2]/div[3]/div[2]/div/div[2]/a/span</value>
+      <webElementGuid>4bc0cfc5-8ddd-48c9-af37-edb50bdb5df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[1]/following::span[1]</value>
+      <webElementGuid>c3352c3a-5de5-4701-9724-26bc8ef39b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Informasi :'])[1]/preceding::span[1]</value>
+      <webElementGuid>41dfab37-4aff-4e77-a974-76d74b816bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada data'])[1]/preceding::span[5]</value>
+      <webElementGuid>1e132341-b4e4-404c-a101-226c69581ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buku Tamu']/parent::*</value>
+      <webElementGuid>c81b5505-33f8-4852-9333-f00aae8b3b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>396ed4ca-5c9f-452d-891d-895e25e02db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buku Tamu' or . = 'Buku Tamu')]</value>
+      <webElementGuid>5f275c46-9168-4429-a624-3962501d1aac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

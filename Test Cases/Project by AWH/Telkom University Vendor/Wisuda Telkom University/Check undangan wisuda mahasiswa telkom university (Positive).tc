@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan semua data pada undangan mahasiswa sudah sesuai</description>
+   <name>Check undangan wisuda mahasiswa telkom university (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6551a3ad-3d1f-4cdd-aa32-a83eac04f56b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53c3c9b8-ac84-4508-aaed-2371f3ddf8c2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48cb1a30-03e8-4e5e-87de-2d0a8a883a27</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8266cbb9-7929-4683-a7dc-32508b5cf0f9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53c3c9b8-ac84-4508-aaed-2371f3ddf8c2</id>
+      <masked>false</masked>
+      <name>linkUndangan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48cb1a30-03e8-4e5e-87de-2d0a8a883a27</id>
+      <masked>false</masked>
+      <name>namaMahasiswa</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8266cbb9-7929-4683-a7dc-32508b5cf0f9</id>
+      <masked>false</masked>
+      <name>jurusanMahasiswa</name>
+   </variable>
+</TestCaseEntity>

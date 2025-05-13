@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan automation untuk membantu prosesn penginputan data user buku tamu</description>
+   <name>User buku tamu wisuda (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0141b844-f3cd-4892-a765-b9b1cebb83f3</testCaseGuid>
+</TestCaseEntity>

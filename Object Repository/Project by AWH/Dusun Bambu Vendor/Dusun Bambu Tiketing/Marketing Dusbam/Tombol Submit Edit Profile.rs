@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Submit Edit Profile</name>
+   <tag></tag>
+   <elementGuidId>4318aa55-a5c9-41e2-bfa8-d96c28d61cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='savePassword()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.my-3.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>baae48c2-1f77-45c7-baa9-a6001af34b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>savePassword()</value>
+      <webElementGuid>ae494a22-58de-4d89-b7be-006627a39f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary my-3 w-100</value>
+      <webElementGuid>c3b44620-97d7-4f12-bfc0-57985afaa4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                 Submit
+                                            </value>
+      <webElementGuid>c89def3a-b6d5-4d19-a62e-696523e55fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-scroller&quot;]/div[@class=&quot;container-fluid page-body-wrapper&quot;]/div[@class=&quot;main-panel align-items-center pt-3 px-4&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 py-2 pb-5 mb-3 text-center px-0 px-lg-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex h-100 justify-content-center align-items-center&quot;]/div[@class=&quot;card-custom d-flex flex-column h-100 pb-3&quot;]/div[@class=&quot;d-flex px-3 flex-column justify-content-center align-items-center flex-grow-1 w-100&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;btn btn-primary my-3 w-100&quot;]</value>
+      <webElementGuid>46f93aa1-0f9d-4ead-a5e1-8f67e2894669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='savePassword()']</value>
+      <webElementGuid>81dc1431-abdc-4cc4-bf09-2419603585e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Baru'])[1]/following::button[1]</value>
+      <webElementGuid>d621a3d6-7810-4e67-bdf4-b57764657f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Password'])[1]/following::button[1]</value>
+      <webElementGuid>d5145dd4-0dad-4b20-9139-0bd0abc8a1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AWH'])[1]/preceding::button[1]</value>
+      <webElementGuid>683ffa51-d548-4a74-a877-5c28873f8d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>cde2b41a-9b6b-4552-8366-d305536f8dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button</value>
+      <webElementGuid>5a29c206-e497-495f-8adb-8983c297302a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                                 Submit
+                                            ' or . = '
+                                                 Submit
+                                            ')]</value>
+      <webElementGuid>4221a7b8-c9d5-4bb6-892a-f46dcb9bf149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

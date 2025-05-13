@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Daftar Dusun Bambu Trail Run</name>
+   <tag></tag>
+   <elementGuidId>6710d3f6-bfec-4234-b0c1-26f9efd914b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Daftar
+                Sekarang')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-light.btn-daftar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0879e08a-de57-471f-911e-3242647ce7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-daftar</value>
+      <webElementGuid>ac7a9371-d421-459d-bda0-1c3e3d92e470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dusunbambutrailrun.com/dusunbambutrailrun/form-tiket</value>
+      <webElementGuid>644f6764-f93b-4d13-b7da-c89a740205aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar
+                Sekarang</value>
+      <webElementGuid>5cb57deb-5bc0-497a-9252-b4a6372e018e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center position-relative&quot;]/a[@class=&quot;btn btn-light btn-daftar&quot;]</value>
+      <webElementGuid>e5f9cc07-5f8b-4112-bd36-7eb1a7126a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar
+                Sekarang')]</value>
+      <webElementGuid>4e9fb46e-ef67-45a7-b918-5994e2eafd81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::a[2]</value>
+      <webElementGuid>d9c439f8-891c-4d46-8610-48abd6064892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dusunbambutrailrun.com/dusunbambutrailrun/form-tiket')]</value>
+      <webElementGuid>d232eb49-cc13-4d30-8a95-4133fc0776bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>28ce30fa-506b-4632-a27d-2461ece103ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dusunbambutrailrun.com/dusunbambutrailrun/form-tiket' and (text() = 'Daftar
+                Sekarang' or . = 'Daftar
+                Sekarang')]</value>
+      <webElementGuid>e0db5ba4-d44b-4012-bfd9-4024a87ba4b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

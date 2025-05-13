@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan seluruh fitur pada halaman security berjalan dengan baik</description>
+   <name>Fitur Security Dusun Bambu Tiket (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de4398db-8dcf-4533-9907-a6a914b58ddf</testCaseGuid>
+</TestCaseEntity>

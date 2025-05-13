@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Form pilih gender pendaftar</name>
+   <tag></tag>
+   <elementGuidId>8d4a710e-f7d1-4cda-8897-7c2beafd82c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#genderSelect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='genderSelect']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d022b682-281c-4d04-902f-33b8cb3e8f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control genderSelect</value>
+      <webElementGuid>be050740-c594-492b-8655-6af788984467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>gender</value>
+      <webElementGuid>47d6ecc9-92e8-4fdf-84ca-9613630f6cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>genderSelect</value>
+      <webElementGuid>4e3ad3c5-96c9-4fcf-ac4c-ba16d4a9b1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                -- Select Gender --
+                                Male
+                                Female
+                            </value>
+      <webElementGuid>2b59ba0c-1896-4d52-b5aa-4ae6ed18c17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;participantForm0&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/select[@id=&quot;genderSelect&quot;]</value>
+      <webElementGuid>8aa41e5f-32cb-4298-96a2-45c8075b573b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='genderSelect']</value>
+      <webElementGuid>d51084d8-ed0c-46d5-aa53-3dfc87d35e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='participantForm0']/div/div[4]/select</value>
+      <webElementGuid>98a36a3b-cc83-4b2a-88f7-e5ab0adcbdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender*'])[1]/following::select[1]</value>
+      <webElementGuid>9a34159f-bb3d-4971-8881-07dd55855075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email harus diakhiri dengan .com!'])[1]/following::select[1]</value>
+      <webElementGuid>195aff90-aa34-4769-8e4a-469eb411b994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender harus diisi!'])[1]/preceding::select[1]</value>
+      <webElementGuid>152b3de4-a0f7-4ee2-86bb-fcab483ac450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number*'])[1]/preceding::select[1]</value>
+      <webElementGuid>4c9b95c8-ea03-45de-ac75-48bbc8b5a1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>729c59bd-b59b-44f4-b6e6-56098a1a2f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'gender' and @id = 'genderSelect' and (text() = '
+                                -- Select Gender --
+                                Male
+                                Female
+                            ' or . = '
+                                -- Select Gender --
+                                Male
+                                Female
+                            ')]</value>
+      <webElementGuid>df219dfe-bae2-4e8d-9195-1877803fecf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

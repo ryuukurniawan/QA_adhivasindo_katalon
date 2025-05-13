@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur edit dapat berjalan lancar pada buku tamu</description>
+   <name>Edit data tamu (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb15164d-5e28-4fe2-97da-83d4d1cf9aa6</testCaseGuid>
+</TestCaseEntity>

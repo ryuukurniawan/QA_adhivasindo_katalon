@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur dari kirim tiket pada logistik dapat berjalan lancar</description>
+   <name>Logistik Dusun Bambu Tiket Kirim (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d71016bf-9870-4fb8-a2da-7b8f5cdf8474</testCaseGuid>
+</TestCaseEntity>

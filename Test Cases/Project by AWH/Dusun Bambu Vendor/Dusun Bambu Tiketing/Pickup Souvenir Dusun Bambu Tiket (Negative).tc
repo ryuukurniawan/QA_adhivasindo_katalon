@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur pada halaman souvenir menampilkan feedback yang benar</description>
+   <name>Pickup Souvenir Dusun Bambu Tiket (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ced7cb98-05cb-4a71-aa36-d12776349c25</testCaseGuid>
+</TestCaseEntity>

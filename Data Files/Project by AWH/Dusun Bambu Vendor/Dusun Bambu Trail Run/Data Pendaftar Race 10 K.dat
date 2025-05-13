@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk tetsing pendaftaran Race 10 k</description>
+   <name>Data Pendaftar Race 10 K</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e6bc6089-11e5-4823-87b2-006fa14b96fe</dataFileGUID>
+   <dataSourceUrl>C:\Users\ryuur\Documents\Ryuu Working Space\Adhikari QA\Data Testing\Data Testing Peserta Dusun Bambu Trail Run.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

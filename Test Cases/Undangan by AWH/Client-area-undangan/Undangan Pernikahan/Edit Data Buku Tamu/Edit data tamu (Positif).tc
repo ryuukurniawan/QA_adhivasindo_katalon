@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk melihat apakah fitur untuk edit data dapat berjalan dengan baik</description>
+   <name>Edit data tamu (Positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5987a957-e1e9-4b77-a3b5-70c7032bc3d2</testCaseGuid>
+</TestCaseEntity>

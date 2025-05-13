@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan seluruh fitur yang ada pada halaman logistik dapat berjalan dengan lancar</description>
+   <name>Fitur Logistik Dusun Bambu Tiket (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13dc6274-85f3-4c97-9393-64b2752e048b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur search berjalan dengan baik pada buku tamu</description>
+   <name>Search data tamu (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02eb3e0c-50e2-451e-8e3a-fa5c549f2ab2</testCaseGuid>
+</TestCaseEntity>

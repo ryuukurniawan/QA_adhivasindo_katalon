@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element Harga Daftar</name>
+   <tag></tag>
+   <elementGuidId>5828bf7a-19ac-4161-adf9-2fc1a3b7d122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ticketPrice']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ticketPrice</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b9e494d-0646-46bd-b65b-dd7a672bdf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ticketPrice</value>
+      <webElementGuid>c018d4c3-a44a-4584-b326-24046bc1bcc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 275.000,-</value>
+      <webElementGuid>0af031a9-0f63-4234-9b1e-7014b57bc82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ticketPrice&quot;)</value>
+      <webElementGuid>e8584b05-24af-426f-8f02-59d8d756d465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ticketPrice']</value>
+      <webElementGuid>d8b6ae00-dc88-4f84-bf7a-7e51ce30decd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='orderSummary']/li/p[2]/span[2]</value>
+      <webElementGuid>355938c2-3f14-4259-87e4-b63e69134923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 345.000,-'])[1]/following::span[1]</value>
+      <webElementGuid>61383ec3-1518-4b53-b5ec-4c493b09bc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Race 10k'])[1]/following::span[2]</value>
+      <webElementGuid>07b57825-8372-471d-a52e-ad616099d8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Semua Partisipan'])[1]/preceding::span[1]</value>
+      <webElementGuid>d875ad5a-3552-4f35-82ad-9493d2fe67c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp 275.000,-']/parent::*</value>
+      <webElementGuid>494b6946-0915-4bbb-b621-c6bc85ba2212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>da41756f-f1f8-4a0f-b4ba-73d502f03e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ticketPrice' and (text() = 'Rp 275.000,-' or . = 'Rp 275.000,-')]</value>
+      <webElementGuid>894a6cef-9e82-48c4-b4a5-56b249a502c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

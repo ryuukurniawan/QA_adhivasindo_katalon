@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur dari marketing dapat menampilkan feedback yang benar</description>
+   <name>Marketing Dusun Bambu Tiketing (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>418db858-3dc8-42c1-a107-2b8d93382df7</testCaseGuid>
+</TestCaseEntity>

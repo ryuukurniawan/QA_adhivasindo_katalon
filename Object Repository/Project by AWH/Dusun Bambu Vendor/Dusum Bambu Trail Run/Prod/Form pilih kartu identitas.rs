@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Form pilih kartu identitas</name>
+   <tag></tag>
+   <elementGuidId>a249b33b-759e-45b1-93c5-f3c9db33dc66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;id_number_type&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='id_number_type']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f4a8d5aa-ed67-48bd-bc0c-9022b7786590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control id-type-select</value>
+      <webElementGuid>41afbdce-c762-43f0-aa8c-a6c3363baa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>id_number_type</value>
+      <webElementGuid>06016901-4700-48c6-87ee-1f37d6d7bc08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                KTP
+                                KK
+                                PASSPORT
+                            </value>
+      <webElementGuid>46f27faa-1029-4b56-b8cb-78d610b54742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;participantForm0&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control id-type-select&quot;]</value>
+      <webElementGuid>3f942c35-72b3-4cdc-8307-e702d9f068fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='id_number_type']</value>
+      <webElementGuid>64253bab-6d72-43a1-8e01-412b5e41bf6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='participantForm0']/div/div[6]/select</value>
+      <webElementGuid>06e6a0af-5530-48a0-91be-27565b4c69d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identify Number Type*'])[1]/following::select[1]</value>
+      <webElementGuid>98ef7366-a5b2-4039-b504-5ec7a76c109e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number harus diisi!'])[1]/following::select[1]</value>
+      <webElementGuid>5dd9222a-e6dc-4010-8bd2-83472383a82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identify Number*'])[1]/preceding::select[1]</value>
+      <webElementGuid>a4a59a54-dd27-4df4-806d-03f850d62aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identify Number harus 16 digit angka!'])[1]/preceding::select[1]</value>
+      <webElementGuid>049a4a3a-e552-4708-b4d7-c53971d67433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>7c2a79f2-45fa-4bf3-b4de-b100de55da12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'id_number_type' and (text() = '
+                                KTP
+                                KK
+                                PASSPORT
+                            ' or . = '
+                                KTP
+                                KK
+                                PASSPORT
+                            ')]</value>
+      <webElementGuid>e9366c4a-53ef-4e9f-9e2a-d91a1a348afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

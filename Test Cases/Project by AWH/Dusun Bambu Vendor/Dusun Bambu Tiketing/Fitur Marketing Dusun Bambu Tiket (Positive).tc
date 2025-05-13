@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan test untuk semua fitur yang ada pada halaman marketing</description>
+   <name>Fitur Marketing Dusun Bambu Tiket (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75e2b8a6-cb08-4288-b7f3-3c65693c8cc8</testCaseGuid>
+</TestCaseEntity>

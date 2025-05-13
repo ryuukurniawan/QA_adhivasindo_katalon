@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol_Print_Tiket</name>
+   <tag></tag>
+   <elementGuidId>b001217b-704c-4600-b665-1dfa9d356b0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='custom-dropdown']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custom-dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0456dbf4-6c6d-405c-a4ec-59abb8302806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary d-flex align-items-center dropdown-toggle p-2</value>
+      <webElementGuid>8a937aef-b9a8-474d-9b9f-341f455af498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>240d8ea5-62c2-45a6-bc40-5d49349eaddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custom-dropdown</value>
+      <webElementGuid>9ae0c3d2-e4cf-4cff-b5e9-86b713756434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>0d8f2bbc-0b02-4e26-a140-02d82cdd9c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>88063c11-00e1-470e-8611-4c95342e7869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8b8005b1-7901-49a2-b7d7-4b6ec58f0358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                   
+                                                Print Tiket
+                                            </value>
+      <webElementGuid>9bc07ced-33df-416f-9fc5-7453cc1b1dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom-dropdown&quot;)</value>
+      <webElementGuid>9840901e-e93d-4002-b9e9-9d0a19d2a810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='custom-dropdown']</value>
+      <webElementGuid>a79dd43b-8514-426f-9f84-274c61c894fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generate-qr']/div/div/div[3]/div/div[2]/div/button</value>
+      <webElementGuid>303e4d04-79ed-493b-a6e2-a2132edd8d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah tiket yang akan dicetak'])[2]/following::button[1]</value>
+      <webElementGuid>99491587-8b3e-4c19-9603-beb8c2bdf6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CETAK TIKET'])[1]/following::button[3]</value>
+      <webElementGuid>0837a341-9f48-4383-b2a7-445d594067cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print tiket tidak berwarna'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab31873a-8490-4eeb-a314-4ccd6ffebcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>260ebd1d-8d5d-4a78-8b9d-8c60e861e53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'custom-dropdown' and (text() = '
+                                                   
+                                                Print Tiket
+                                            ' or . = '
+                                                   
+                                                Print Tiket
+                                            ')]</value>
+      <webElementGuid>713b7379-1921-4d71-a354-cc410e078026</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

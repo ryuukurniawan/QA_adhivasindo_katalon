@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan test untuk melihat apakah fitur untuk menghapus data tamu berjalan dengan baik</description>
+   <name>Delete data tamu (Positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8036fdec-58f1-410e-b114-d9751ca386e4</testCaseGuid>
+</TestCaseEntity>

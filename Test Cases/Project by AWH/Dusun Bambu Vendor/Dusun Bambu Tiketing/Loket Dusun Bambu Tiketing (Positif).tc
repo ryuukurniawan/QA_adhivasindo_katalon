@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur order tiket pada loket berjalan lancar.</description>
+   <name>Loket Dusun Bambu Tiketing (Positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86d0373e-f73c-4449-b9d9-9d24065d6662</testCaseGuid>
+</TestCaseEntity>

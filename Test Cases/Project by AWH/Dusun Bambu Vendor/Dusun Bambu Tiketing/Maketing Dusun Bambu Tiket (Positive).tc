@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing pada alur pembuatan dan pencetakan tiket pada bagian marketing</description>
+   <name>Maketing Dusun Bambu Tiket (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5e5518f-cb35-42cb-bafe-af0710afc48c</testCaseGuid>
+</TestCaseEntity>

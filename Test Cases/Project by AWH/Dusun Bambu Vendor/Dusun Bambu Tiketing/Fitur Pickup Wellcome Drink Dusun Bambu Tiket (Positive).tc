@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan seluruh fitur pada halaman pickup wellcome drink dapat berjalan dengan baik</description>
+   <name>Fitur Pickup Wellcome Drink Dusun Bambu Tiket (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78ba46ff-7d27-4042-bc11-04826ca8fa9b</testCaseGuid>
+</TestCaseEntity>

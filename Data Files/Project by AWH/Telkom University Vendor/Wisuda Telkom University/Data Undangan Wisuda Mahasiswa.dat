@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data  untuk melakukan testing pada undangan wisuda mahasiswa telu</description>
+   <name>Data Undangan Wisuda Mahasiswa</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2885612c-45a3-41a7-8246-06acc36c0193</dataFileGUID>
+   <dataSourceUrl>C:\Users\ryuur\Documents\Ryuu Working Space\Adhikari QA\Data Testing\LINK UNDANGAN TELKOM UNIVERSITY DATA WISUDAWAN PERIODE II 2425.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sesi 1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

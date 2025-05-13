@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur delete pada buku tamu berjalan lancar</description>
+   <name>Delete data tamu (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8c06e2b-4d16-4bf7-8687-c3035c4f75b6</testCaseGuid>
+</TestCaseEntity>

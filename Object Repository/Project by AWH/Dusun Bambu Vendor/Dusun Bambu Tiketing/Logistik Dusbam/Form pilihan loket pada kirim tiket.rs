@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Form pilihan loket pada kirim tiket</name>
+   <tag></tag>
+   <elementGuidId>aa8b8e0c-8d03-4e46-8ba5-607778a5c35f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#loket_guest_loket_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='loket_guest_loket_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5d77c4d2-1f0b-4f9c-a6ce-484644cc84b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loket_guest_loket_id</value>
+      <webElementGuid>36b1d1ab-b295-4b64-9e74-c7723038c7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>loket_guest_loket_id</value>
+      <webElementGuid>8b77b6f6-5ecc-4273-952f-4e11ab6306c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>0a126520-db05-4f6c-acdb-75af51150f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							-- Pilih Loket --
+													</value>
+      <webElementGuid>b838755f-c0e4-469d-bd00-7ae6ea1a4fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loket_guest_loket_id&quot;)</value>
+      <webElementGuid>45158b5a-ffa4-43bf-8b84-96c4e0fdf3e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='loket_guest_loket_id']</value>
+      <webElementGuid>410611d6-810f-4217-8516-fc60de370ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-scan-nonactive-bacth']/div/div/div[2]/div/div/select</value>
+      <webElementGuid>934792b4-fcee-4ad4-a111-f4adcb6f0f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Loket'])[2]/following::select[1]</value>
+      <webElementGuid>8fd1323c-f140-44e6-831c-eccee963ded6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Kode'])[1]/following::select[1]</value>
+      <webElementGuid>2e740b29-4b62-4258-b994-0dd71395ec93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::select[1]</value>
+      <webElementGuid>1d04ad7c-3df0-487a-ad08-f9c733158302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>5e1885ff-526d-4944-b113-83d79265bb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'loket_guest_loket_id' and @name = 'loket_guest_loket_id' and (text() = '
+							-- Pilih Loket --
+													' or . = '
+							-- Pilih Loket --
+													')]</value>
+      <webElementGuid>81821207-afc4-4a79-b4e2-371e72a60470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

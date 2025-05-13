@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Reset Kehadiran Tamu</name>
+   <tag></tag>
+   <elementGuidId>6d4b7c67-7c9d-4c13-bdb6-15f7f030f013</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@onclick=&quot;resetKehadiranTamu('76144')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7ee515ab-b0da-43a0-a4ad-48aa947ce994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>resetKehadiranTamu('76144')</value>
+      <webElementGuid>3f298893-eaec-4ccf-8a26-6f540b7d15a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item btn-primary edit-tamu-button</value>
+      <webElementGuid>05db907d-3b46-4db1-909e-249d34497dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+																		Reset
+																		Kehadiran
+																	</value>
+      <webElementGuid>b5e57956-cc57-4ab0-82ec-0a9a3efa1db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data-tamu&quot;)/div[@class=&quot;data-container&quot;]/ul[@class=&quot;data-container__list data-list&quot;]/li[@class=&quot;tableItem&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-5 col-lg-6 justify-content-end justify-content-lg-end align-items-center text-center d-flex px-0&quot;]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/p[@class=&quot;dropdown-item btn-primary edit-tamu-button&quot;]</value>
+      <webElementGuid>cc7dff38-bb81-493e-9ba9-624e0913e015</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@onclick=&quot;resetKehadiranTamu('76144')&quot;]</value>
+      <webElementGuid>ec4c37b2-accb-4bdf-9520-4a3afb055de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data-tamu']/div[2]/ul/li/div/div/div[2]/div[3]/div/p[2]</value>
+      <webElementGuid>349ca15d-350e-41a8-a689-3f2542b4d7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda Sudah Mengirim Whatsapp'])[1]/following::p[2]</value>
+      <webElementGuid>4fd9256f-6efb-40fe-a80d-387cf6babb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::p[1]</value>
+      <webElementGuid>4e689151-f24e-489e-bd04-d9c28d477c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::p[1]</value>
+      <webElementGuid>448216a9-fc9b-4853-8717-4a87f37fe109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p[2]</value>
+      <webElementGuid>57a468e3-c1cd-4062-8592-3b4ed6bb3a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+																		Reset
+																		Kehadiran
+																	' or . = '
+																		Reset
+																		Kehadiran
+																	')]</value>
+      <webElementGuid>2ca1b257-1729-4f8b-b6fb-c9e46d0e3229</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

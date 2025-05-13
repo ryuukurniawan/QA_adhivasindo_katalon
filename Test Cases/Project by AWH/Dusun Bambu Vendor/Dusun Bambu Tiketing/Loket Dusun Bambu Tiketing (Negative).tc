@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastika alur dari loket dapat menampilkan feedback yang benar</description>
+   <name>Loket Dusun Bambu Tiketing (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a6e8e83-c6c9-4de2-829f-f5403a7b87ff</testCaseGuid>
+</TestCaseEntity>

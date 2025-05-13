@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur dari pick up sovernir berjalan dengan baik</description>
+   <name>Pickup Souvenir Dusun Bambu Tiketing (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4765e68-dad0-415e-85ef-d031f7c41b54</testCaseGuid>
+</TestCaseEntity>

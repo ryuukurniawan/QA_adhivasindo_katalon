@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan feedback pada halaman free loket berjalan dengan baik</description>
+   <name>Free Loket Dusun Bambu Tiket (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b6c8403-b31d-4e32-8b76-addde737cb10</testCaseGuid>
+</TestCaseEntity>

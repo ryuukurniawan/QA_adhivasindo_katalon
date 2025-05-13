@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Daftar Family Run</name>
+   <tag></tag>
+   <elementGuidId>3102a705-faba-4b5a-9c01-e12d2087209b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.w-100.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='showFamilyModal(4)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>371c84e2-8686-48de-b3e2-c99ab6f89808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary w-100 mt-3</value>
+      <webElementGuid>7904578f-4968-4de2-8aa1-1b7f784b278d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showFamilyModal(4)</value>
+      <webElementGuid>076040a5-7d55-412f-b7a7-5d4b9a20a0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-route</name>
+      <type>Main</type>
+      <value>https://dusunbambutrailrun.com/dusunbambutrailrun/form-regist-family/4</value>
+      <webElementGuid>8194862c-fca8-46e5-8f82-ddb2a24687c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang</value>
+      <webElementGuid>cc3a0156-6a81-4026-a9c7-15342281bd75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;row p-4 mt-3&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-12 p-1&quot;]/div[@class=&quot;card h-100&quot;]/div[@class=&quot;card-body d-flex flex-column&quot;]/button[@class=&quot;btn btn-primary w-100 mt-3&quot;]</value>
+      <webElementGuid>c66eaaf3-8442-4f9e-a3c1-c2935f9d13ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='showFamilyModal(4)']</value>
+      <webElementGuid>618e210d-86f5-495d-b005-9e7462d172c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FUN FAMILY RUN'])[1]/following::button[1]</value>
+      <webElementGuid>39d76f59-908e-4e1f-8ac2-b0bed622ad49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@dusunbambutrailrun'])[2]/following::button[1]</value>
+      <webElementGuid>19273d72-9ea1-480f-8d0c-2b1cace658a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RACE 10K'])[1]/preceding::button[1]</value>
+      <webElementGuid>51dcf38f-c37d-460f-95c6-a496fa7ef429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[2]/preceding::button[1]</value>
+      <webElementGuid>8b04e221-e05b-44c8-80f0-431020019f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Sekarang']/parent::*</value>
+      <webElementGuid>23f691b2-df30-4f5a-aef4-f45e99291388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>b33640aa-7e33-42ed-92ed-3c6a5756b785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Daftar Sekarang' or . = 'Daftar Sekarang')]</value>
+      <webElementGuid>3a88c59a-979d-4c9d-8150-022e24fc98cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

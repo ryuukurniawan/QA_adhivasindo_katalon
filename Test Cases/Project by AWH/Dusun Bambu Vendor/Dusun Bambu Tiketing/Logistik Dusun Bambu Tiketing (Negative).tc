@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur dari logistik dapat menampilkan feedback yang benar</description>
+   <name>Logistik Dusun Bambu Tiketing (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c0f4e28-3564-4452-8dbe-668de13c6c0e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing pada logitik dusun bambu tiketing untuk memastkan alur berjalan lancar</description>
+   <name>Logistik Dusun Bambu Tiket Aktivasi (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4776032-5f46-44c8-b658-aba406686c14</testCaseGuid>
+</TestCaseEntity>

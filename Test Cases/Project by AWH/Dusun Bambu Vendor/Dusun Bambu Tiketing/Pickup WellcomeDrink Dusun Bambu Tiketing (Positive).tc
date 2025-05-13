@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing unutk memastikan alur dari pick up wellcome drink berjalan lancar</description>
+   <name>Pickup WellcomeDrink Dusun Bambu Tiketing (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef48a41a-6049-40d9-92ff-ea9d226e3352</testCaseGuid>
+</TestCaseEntity>

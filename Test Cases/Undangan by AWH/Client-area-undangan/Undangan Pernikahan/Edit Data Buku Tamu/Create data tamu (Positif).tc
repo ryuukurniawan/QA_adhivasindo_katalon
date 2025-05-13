@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing pada bagian buat data tamu pada buku tamu, untuk memastikan bahwa data tamu berhasil di buat dengan baik</description>
+   <name>Create data tamu (Positif)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e54e462-b46d-46b0-bfee-8345e259949e</testCaseGuid>
+</TestCaseEntity>

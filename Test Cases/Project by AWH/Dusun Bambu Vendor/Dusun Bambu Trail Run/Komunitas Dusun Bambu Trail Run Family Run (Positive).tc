@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing pada bagain form pendaftaran untuk memastikan harga tiket untuk komunitas berbeda</description>
+   <name>Komunitas Dusun Bambu Trail Run Family Run (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01b32236-ecf9-4c66-83f2-859d9d83c2e8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f6c4c8e-d8d9-4f64-8274-96cb24811626</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f6c4c8e-d8d9-4f64-8274-96cb24811626</id>
+      <masked>false</masked>
+      <name>namaKomunitas</name>
+   </variable>
+</TestCaseEntity>

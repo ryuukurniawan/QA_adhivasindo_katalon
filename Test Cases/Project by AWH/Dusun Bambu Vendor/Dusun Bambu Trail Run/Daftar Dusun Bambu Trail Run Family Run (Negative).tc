@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur pendaftaran dusbam trail run berjalan dengan baik</description>
+   <name>Daftar Dusun Bambu Trail Run Family Run (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fcb9cd9-ddea-4916-bf61-4fe97220a3f6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol pilih partisipan Ayah, Ibu, Anak</name>
+   <tag></tag>
+   <elementGuidId>1cebd8fe-178a-45b1-b741-7b7de0051bfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;redirectToFamily('ayah-ibu-anak')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.w-100.mb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d35d209-ab8d-4803-924b-fb07341a5e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary w-100 mb-2</value>
+      <webElementGuid>b8daac49-3108-4a4b-9821-af3b19ae8477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>redirectToFamily('ayah-ibu-anak')</value>
+      <webElementGuid>ee0427e6-9682-424c-a93b-f913c087dd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ayah, Ibu, Anak</value>
+      <webElementGuid>80fb99a6-e0e1-4596-8d80-6320c5c878e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;familyModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/button[@class=&quot;btn btn-primary w-100 mb-2&quot;]</value>
+      <webElementGuid>887bd05f-7ebb-4051-95e0-9eedcaafa855</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;redirectToFamily('ayah-ibu-anak')&quot;]</value>
+      <webElementGuid>1e864a54-b92e-4a05-8997-83a73e98cf59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='familyModal']/div/div/div[2]/button</value>
+      <webElementGuid>fd1771ff-e9eb-43cf-8e78-99aba352cad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Komposisi Peserta'])[1]/following::button[1]</value>
+      <webElementGuid>768eb19f-6729-4a89-a4e8-24d977c09797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayah, Anak, Anak'])[1]/preceding::button[1]</value>
+      <webElementGuid>4089b3eb-846b-46f1-bf02-b7e5ef7e4292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ibu, Anak, Anak'])[1]/preceding::button[2]</value>
+      <webElementGuid>67cd5a1d-270b-4b9b-a346-2d06988693d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ayah, Ibu, Anak']/parent::*</value>
+      <webElementGuid>5d464927-4e5b-4d31-8b91-57774b900b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>752a7ca0-b56e-4a48-9dbb-cb915c8e2962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ayah, Ibu, Anak' or . = 'Ayah, Ibu, Anak')]</value>
+      <webElementGuid>9f10e37e-fcef-4a2d-b07f-6d2383540beb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
